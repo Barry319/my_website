@@ -1,10 +1,11 @@
 body {
   background-color: lightblue;
+  background-attachment: fixed;
 }
 
 h1 {
-  font-family: "Segoe Print";
   color: deeppink;
+  font-family: "Segoe Print";
   font-size: 100px;
   text-align: center;
 }
@@ -13,4 +14,13 @@ p {
   font-family: "Arial Black";
   font-size: 30px;
   text-align: center;
+}
+
+a {
+  font-size: 30px;
+  text-align: center;
+}
+
+img {
+   text-align: center;
 }
