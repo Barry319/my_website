@@ -3,11 +3,14 @@ body {
 }
 
 h1 {
-  color: white;
+  font-family: "Segoe Print";
+  color: deeppink;
+  font-size: 100px;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
-  font-size: 20px;
+  font-family: "Arial Black";
+  font-size: 30px;
+  text-align: center;
 }
